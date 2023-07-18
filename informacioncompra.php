@@ -5,9 +5,9 @@
   $precio2 = $_POST['precio2'];
   $total = $precio1 + $precio2;
   echo "<p>Producto 1:</p>.$producto1;
-  echo "<p>Precio 1: </p>.$precio1;
+  echo "El valor del producto es: ".$precio1;
   echo "<p>Producto 2: </p>.$precio2;
-  echo "<p>Precio 2: </p>.$precio2;
+  echo "El valor del producto es:".$precio2;
   echo "<p>Total a pagar: </p> .$total;
   ?>
 
