@@ -5,7 +5,7 @@
 <body>
   <h2>Formulario de Productos</h2>
   
-  <form name="producto"class="formulario" action="informacion.php" method="POST">
+  <form name="producto"class="formulario" action="informacioncompra.php" method="POST">
       <tabla class="tabla" border="1">
 <tr>
  <label for="producto1">producto 1</label>
