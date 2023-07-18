@@ -8,22 +8,22 @@
   <form name="producto"class="formulario" action="informacioncompra.php" method="POST">
       <tabla class="tabla" border="1">
 <tr>
- <label for="producto1">producto 1</label>
+ <td>"producto1"producto 1</td>
  <td>   <input type="text" id="producto1" name="producto1"  class="producto1"> </td>
 </tr>
         <br>
        <tr>
-    <lable for="precio1">precio 1:</label>
+    <td>"precio1"precio 1:</td>
    <td></td> <input type="number" id="precio1" name="precio1" class="precio1" ></td>
         </tr>
     <br><br>
         <tr>
-    <label for="producto2">producto 2</label>
+    <td>"producto2">producto 2</td>
  <td> <input type="text" id="producto2" name="producto2" class="producto2"></td>
         </tr>
     <br>
         <tr>
-    <label for="precio2">precio 2:</label>
+    <td>"precio2">precio 2:</td>
    <td> <input type="number" id="precio2" name="precio2" class="precio2"></td>
         </tr>
     <br><br>
